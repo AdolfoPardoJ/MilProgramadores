@@ -1,0 +1,50 @@
+10
+
+dir
+1
+http://pvd-pm-01-03.aws.smartcloud.cl/project01/Taller2PARDO_Chocolate/src
+http://pvd-pm-01-03.aws.smartcloud.cl/project01
+
+
+
+2017-12-18T22:41:20.184138Z
+1
+usuario01
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9a3999dd-8090-e64b-8169-c87f94145244
+
+
+
+
+
+
+0
+
+Controlador
+dir
+
+Imagenes
+dir
+
+Modelo
+dir
+
+Vista
+dir
+
+taller2pardo_chocolate
+dir
+
