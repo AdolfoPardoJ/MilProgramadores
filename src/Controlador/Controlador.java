@@ -276,7 +276,7 @@ public class Controlador extends JFrame implements ActionListener, MenuListener 
             return "";
         }
     }
-     
+     //44
       public int tieneAzucarAgregar() {
         if (agregar.getjSi().isSelected() == true&&agregar.getTxtTipo().getSelectedIndex()==0 ) {
             return 1;
