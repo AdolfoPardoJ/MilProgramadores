@@ -327,7 +327,7 @@ public class Controlador extends JFrame implements ActionListener, MenuListener 
 
         }
     }
-
+//c
     @Override
     public void menuDeselected(MenuEvent e) {
 
